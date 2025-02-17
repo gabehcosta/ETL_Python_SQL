@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto demonstra minhas habilidades em manipulação de dados com **Python**, **Pandas** e **SQL Server**. O pipeline de ETL (Extração, Transformação e Carga) é implementado utilizando um dataset baixado do Kaggle, onde os dados são tratados e posteriormente, carregados em um banco de dados SQL Server local. Por fim, os dados são extraídos do banco e exportados para um arquivo CSV.
+Este projeto demonstra minhas habilidades em manipulação de dados com **Pandas** e **SQL Server**. O pipeline de ETL (Extração, Transformação e Carga) é implementado utilizando um dataset baixado do Kaggle, onde os dados são tratados e posteriormente, carregados em um banco de dados SQL Server local. Por fim, os dados são extraídos do banco e exportados para um arquivo CSV.
 
 ## Estrutura do Projeto
 
